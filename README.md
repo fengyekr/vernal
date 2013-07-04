@@ -1,4 +1,4 @@
 vernal
 ======
 
-java hot replace framework base on Spring framework
+java hot replace framework based on Spring framework
